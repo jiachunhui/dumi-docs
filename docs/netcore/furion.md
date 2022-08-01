@@ -1,8 +1,6 @@
 ---
 title: Furion
-nav:
-  path: '/netcore/furion'
-  title: 'NetCore'
+
 ---
 
 # Furion

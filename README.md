@@ -36,4 +36,6 @@ git commit -m 'deploy'
 
 git push -f git@github.com:jiachunhui/docs.git master:gh-pages
 
+git push -f git@github.com:jiachunhui/dumi-docs.git master:pages
+
 # 把上面的 <USERNAME> 换成你自己的 Github 用户名，<REPO> 换成仓库名，比如我这里就是：

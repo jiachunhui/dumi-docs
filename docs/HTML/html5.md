@@ -1,8 +1,8 @@
 ---
-title: Html5
+title: Html
 nav:
-  path: '/html5'
-  title: 'Html5'
+  path: '/html'
+  title: 'Html'
 ---
 
 ## video视频做为背景使用

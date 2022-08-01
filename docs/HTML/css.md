@@ -1,8 +1,8 @@
 ---
 title: CSS
 nav:
-  path: '/html5'
-  title: 'Html5'
+  path: '/html'
+  title: 'Html'
 ---
 
 # CSS 相关
